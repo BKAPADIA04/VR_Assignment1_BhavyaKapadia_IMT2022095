@@ -1,7 +1,7 @@
 
 # VR_Assignment1_BhavyaKapadia_IMT2022095
 
-### git clone https://github.com/BKAPADIA04/Assignment-1.git
+### git clone https://github.com/BKAPADIA04/VR_Assignment1_BhavyaKapadia_IMT2022095
 
 `cd Assignment-1`
 
