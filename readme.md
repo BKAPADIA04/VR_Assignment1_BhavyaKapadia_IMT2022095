@@ -5,7 +5,7 @@
 
 `cd Assignment-1`
 
-### Report : VR_Assignment1_BhavyaKapadia_IMT2022095
+### Report : VR_Assignment1_BhavyaKapadia_IMT2022095.pdf
 
 ### Part 1 : Detection, Segmentation And Coins Count
 
