@@ -26,11 +26,11 @@ python IMT2022095_part1.py
 
 ##### The output images have images stored as (eg for 1.jpg):
 
-###### The detected coins are saved as : detected_i.jpg (eg : detected_1.jpg)
+##### The detected coins are saved as : detected_i.jpg (eg : detected_1.jpg)
 
-###### The segmented coins are saved as : segmented_i.jpg (eg : segmented_1.jpg)
+##### The segmented coins are saved as : segmented_i.jpg (eg : segmented_1.jpg)
 
-###### Each segmented coin is saved as : coin_i_j.jpg where j ranges from 1 to total coins detected. (eg : coin_1_1.jpg,coin_1_2.jpg,...,coin_1_6.jpg)
+##### Each segmented coin is saved as : coin_i_j.jpg where j ranges from 1 to total coins detected. (eg : coin_1_1.jpg,coin_1_2.jpg,...,coin_1_6.jpg)
 
 ### Part 2 : Stitched Panorama From Multiple Images
 
