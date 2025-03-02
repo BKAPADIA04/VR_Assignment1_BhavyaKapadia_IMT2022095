@@ -44,7 +44,7 @@ pip install numpy opencv-python opencv-python-headless
 
 ### To run the code : 
 #### Input images are stored in input folder : input (eg:0.png,1.png,..,3.png)
-#### Make a folder for storing the output images : output (Here I am already made)
+#### Make a folder for storing the output images : output (Here I have already made it)
 ```bash 
 python IMT2022095_part2.py
 ```
